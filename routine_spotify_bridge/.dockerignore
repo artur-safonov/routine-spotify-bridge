@@ -1,0 +1,12 @@
+.git
+.private
+.env
+.env.*
+options.json
+spotify_token.json
+secrets.yaml
+.venv
+**/__pycache__
+**/*.pyc
+.pytest_cache
+tests
